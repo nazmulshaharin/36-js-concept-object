@@ -8,7 +8,7 @@ console.log(person)
 //const  human = Object.create(null);
 const  human = Object.create(student);
 console.log(human.job);
-
+//4
 class people {
   constructor(name, age){
     this.name = name;
