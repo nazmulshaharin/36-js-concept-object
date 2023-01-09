@@ -3,4 +3,4 @@ const student = {name: 'jahid', job: 'cricketer'};
 // constructor
 const person = new Object();
 //
-console.log(person);
+console.log(person)
